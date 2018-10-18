@@ -1,2 +1,2 @@
-# NSBMWorkSho
-This is a demo
+# NSBMWorkShop
+This is a demo repository for hacktober
